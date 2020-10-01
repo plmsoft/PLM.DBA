@@ -1,2 +1,2 @@
 # PLM.DBA
-Lightweight ORM on the ADO.NET
+Lightweight ORM on the ADO.NET (.NET CORE 2+)
